@@ -1,0 +1,6 @@
+# EURUSD Scalping Robot - Python Requirements
+# Install with: pip install -r requirements.txt
+
+MetaTrader5>=5.0.45
+pandas>=2.0.0
+numpy>=1.24.0

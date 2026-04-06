@@ -1,8 +1,5 @@
 # EURUSD Scalper Pro — Setup Guide
 
-## ✅ Your PC is more than capable
-AMD Ryzen 7 5800H + RTX 3060 → YES, handles this easily.
-
 ---
 
 ## 📁 Project Structure
